@@ -2,4 +2,4 @@
 Just another repository
 
 
-Sudish here, I like Computer Scieb=nce and wish to take the course in Junior year.
+Sudish here, I like Computer Science and wish to take the course in Junior year.
